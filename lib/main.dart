@@ -82,10 +82,10 @@ class _MyHomePageState extends State<MyHomePage> {
   void _onUserLogin() {
     var stuff = ["bags", "shoes"];
     var profile = {
-      'Name': 'FlutterProfile',
-      'Identity': 'flutter001',
-      'Email': 'flutter@clevertap.com',
-      'Phone': '+9164611222',
+      'Name': 'Captain America',
+      'Identity': '100',
+      'Email': 'captain@america.com',
+      'Phone': '+14155551234',
       'stuff': stuff
     };
     try {
